@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @LaserTb
-- 👀 I’m interested in ...JAVA Backend 
--  I’m currently learning SPRING BOOT
+- 👀 I’m interested in ...JAVA Backend PHP PYTHON
+
 - 💞️ I’m looking to collaborate on ...
